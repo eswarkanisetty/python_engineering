@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# --- JetBrains (PyCharm) ---
+.idea/
+
+# --- Course Specific (The "Junk" you saw earlier) ---
+*.yaml
+*.md
+!README.md
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Personal Scripts ---
+sync.sh
