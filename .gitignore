@@ -21,3 +21,6 @@ desktop.ini
 
 # --- Personal Scripts ---
 sync.sh
+
+# --- Ignore Solution.py scripts ---
+solution.py
