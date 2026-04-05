@@ -6,3 +6,4 @@ Progress :
 
 Day 01 | CLI String Processing - Project : Brand Name Generator| [Completed ✅]
 Day 02 | Data Types & String Manipulation - Project : Tip Calculator | [Completed ✅]
+Day 03 | Control Flow & Logical Operators - Project : Treasure Island, Pizza Billing | [Completed ✅]
