@@ -11,3 +11,4 @@ Day 04 | Randomisation & Python Lists - Project : Rock Paper Scissors, Banker Ro
 Day 05 | Python Loops & Aggregations - Project : Password Generator | [Completed ✅]
 Day 06 | Functions - Project : Escaping Hurdle, Maze Using Functions | [Completed ✅]
 Day 07 | Concept : Algorithm Building - Project : Hangman Game | [Completed ✅]
+Day 08 | Concept : Function Parameters - Project : Caesar Cipher | [Completed ✅]
